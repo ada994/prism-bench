@@ -1,12 +1,12 @@
 # PRISM Benchmark & FLUX-Reason-6M Dataset
 
-🌟  This is the official repository for the paper "[FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark](https://github.com/yuyouxixi/Exp)", which contains both evaluation code and data for the **PRISM Benchmark**.
+🌟  This is the official repository for the paper "[FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark](https://flux-reason-6m.github.io/)", which contains both evaluation code and data for the **PRISM Benchmark**.
 
-[[🌐 Homepage](https://github.com/yuyouxixi/Exp)] [[🤗 Huggingface Dataset](https://github.com/yuyouxixi/Exp)] [[📊 Leaderboard ](https://github.com/yuyouxixi/Exp)] [[📊 Leaderboard-ZH ](https://github.com/yuyouxixi/Exp)] [[📖 Paper](https://github.com/yuyouxixi/Exp)]
+[[🌐 Homepage](https://flux-reason-6m.github.io/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/LucasFang/FLUX-Reason-6M)] [[📊 Leaderboard ](https://flux-reason-6m.github.io/)] [[📊 Leaderboard-ZH ](https://flux-reason-6m.github.io/)] [[📖 Paper](https://flux-reason-6m.github.io/)]
 
 ## 💥 News
-- **[2024-09-12]** Our paper is now accessible at [ArXiv Paper](https://github.com/yuyouxixi/Exp).
-- **[2025-09-12]** Our FLUX-Reason-6M dataset is now accessible at [huggingface](https://github.com/yuyouxixi/Exp).
+- **[2024-09-12]** Our paper is now accessible at [ArXiv Paper](https://flux-reason-6m.github.io/).
+- **[2025-09-12]** Our FLUX-Reason-6M dataset is now accessible at [huggingface](https://huggingface.co/datasets/LucasFang/FLUX-Reason-6M).
 
 ## 📈 Evaluation
 
