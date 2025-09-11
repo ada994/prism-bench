@@ -72,7 +72,7 @@ python evaluation/eval_qwen25.py --image_path <path to image data> --model_path 
 ```
 
 ## 📊 Benchmark
-The leaderboard is available [here](https://flux-reason-6m.github.io/).
+The leaderboard is available [here](https://flux-reason-6m.github.io/#leaderboard).
 
 <details open>
 <summary> PRISM-Bench(GPT4.1) </summary>
