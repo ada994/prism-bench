@@ -2,7 +2,7 @@
 
 # PRISM Benchmark & FLUX-Reason-6M Dataset
 
-[[🌐 Homepage](https://flux-reason-6m.github.io/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/LucasFang/FLUX-Reason-6M)] [[📊 Leaderboard ](https://flux-reason-6m.github.io/)] [[📊 Leaderboard-ZH ](https://flux-reason-6m.github.io/)] [[📖 Paper](https://flux-reason-6m.github.io/)]
+[[🌐 Homepage](https://flux-reason-6m.github.io/)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/LucasFang/FLUX-Reason-6M)] [[📊 Leaderboard ](https://flux-reason-6m.github.io/#leaderboard)] [[📊 Leaderboard-ZH ]([https://flux-reason-6m.github.io/](https://flux-reason-6m.github.io/#leaderboard))] [[📖 Paper](https://flux-reason-6m.github.io/)]
 
 [Rongyao Fang](https://rongyaofang.github.io/)<sup>1*</sup>&ensp; [Aldrich Yu](https://aldrichyu.github.io/)<sup>1*</sup>&ensp; [Chengqi Duan](https://scholar.google.com/citations?user=r9qb4ZwAAAAJ&hl=en)<sup>2*</sup>&ensp; [Linjiang Huang](https://leonhlj.github.io/)<sup>3</sup>&ensp; [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN)<sup>4</sup>&ensp; 
 
