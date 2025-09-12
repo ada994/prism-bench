@@ -25,7 +25,7 @@
 We introduce **FLUX-Reason-6M** and **PRISM-Bench**. FLUX-Reason-6M is a **6-million-scale** synthesized dataset designed to incorporate reasoning capabilities into the architecture of T2I generation. PRISM-Bench serves as a comprehensive and discriminative benchmark with **7 independent tracks** that closely align with human judgment.
 
 ## 💥 News
-- **[2024-09-12]** Our paper is now accessible at [ArXiv Paper](https://flux-reason-6m.github.io/).
+- **[2024-09-12]** Our paper is now accessible at [ArXiv Paper](https://arxiv.org/abs/2509.09680).
 - **[2025-09-12]** Our FLUX-Reason-6M dataset is now accessible at [huggingface](https://huggingface.co/datasets/LucasFang/FLUX-Reason-6M).
 
 ## 📈 Evaluation
