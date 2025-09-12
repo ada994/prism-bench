@@ -165,7 +165,7 @@ If you find this work helpful, please consider citing:
 ```
 @article{fang2025flux,
       title={FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark}, 
-      author={Rongyao Fang and Aldrich Yu and Chengqi Duan and Linjiang Huang and Shuai Bai and Yuxuan Cai and Kun Wang and Si Liu and Xihui Liu and Hongsheng Li},
+      author={Fang, Rongyao and Yu, Aldrich and Duan, Chengqi and Huang, Linjiang and Bai, Shuai and Cai, Yuxuan and Wang, Kun and Liu, Si and Liu, Xihui and Li, Hongsheng},
       journal={arXiv preprint arXiv:2509.09680},
       year={2025}
 }
