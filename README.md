@@ -6,9 +6,9 @@
 
 [Rongyao Fang](https://rongyaofang.github.io/)<sup>1*</sup>&ensp; [Aldrich Yu](https://aldrichyu.github.io/)<sup>1*</sup>&ensp; [Chengqi Duan](https://scholar.google.com/citations?user=r9qb4ZwAAAAJ&hl=en)<sup>2*</sup>&ensp; [Linjiang Huang](https://leonhlj.github.io/)<sup>3</sup>&ensp; [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN)<sup>4</sup>&ensp; 
 
-[Yuxuan Cai](https://scholar.google.com/citations?user=EzYiBeUAAAAJ&hl=en)<sup>4</sup>&ensp; [Kun Wang](https://openreview.net/profile?id=~Kun_Wang8)&ensp; [Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ&hl=en)<sup>3</sup>&ensp; [Xihui Liu](https://xh-liu.github.io/)<sup>2†</sup>&ensp; [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)<sup>1†</sup>&ensp;
+[Yuxuan Cai](https://scholar.google.com/citations?user=EzYiBeUAAAAJ&hl=en)<sup>4</sup>&ensp; [Kun Wang](https://openreview.net/profile?id=~Kun_Wang8)<sup>5</sup>&ensp; [Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ&hl=en)<sup>3</sup>&ensp; [Xihui Liu](https://xh-liu.github.io/)<sup>2†</sup>&ensp; [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)<sup>1†</sup>&ensp;
 
-<sup>1</sup>CUHK&ensp;&ensp; <sup>2</sup>HKU&ensp;&ensp; <sup>3</sup>BUAA&ensp;&ensp; <sup>4</sup>Alibaba&ensp;&ensp; 
+<sup>1</sup>CUHK&ensp;&ensp; <sup>2</sup>HKU&ensp;&ensp; <sup>3</sup>BUAA&ensp;&ensp; <sup>4</sup>Alibaba&ensp;&ensp; <sup>5</sup>Sensetime&ensp;&ensp; 
 
 <sup>*</sup>Equal Contribution&ensp; <sup>†</sup>Corresponding Author
 
