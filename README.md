@@ -160,7 +160,7 @@ The leaderboard is available [here](https://flux-reason-6m.github.io/#leaderboar
 
 ## 📝 Citation
 
-If you find this benchmark and dataset useful in your research, please consider citing this BibTex:
+If you find this work helpful, please consider citing:
 
 ```
 @article{fang2025flux,
