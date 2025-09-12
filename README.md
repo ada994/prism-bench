@@ -163,5 +163,10 @@ The leaderboard is available [here](https://flux-reason-6m.github.io/#leaderboar
 If you find this benchmark and dataset useful in your research, please consider citing this BibTex:
 
 ```
-
+@article{fang2025flux,
+      title={FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark}, 
+      author={Rongyao Fang and Aldrich Yu and Chengqi Duan and Linjiang Huang and Shuai Bai and Yuxuan Cai and Kun Wang and Si Liu and Xihui Liu and Hongsheng Li},
+      journal={arXiv preprint arXiv:2509.09680},
+      year={2025}
+}
 ```
